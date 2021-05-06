@@ -2,4 +2,4 @@
 
 Book Santa App, Stage 1
 
-Added login and sign up functionality
+Added login or sign up functionality
